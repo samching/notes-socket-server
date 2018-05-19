@@ -1,9 +1,5 @@
-# starter express app template
+# Websocket Server
 
-* node with babel
-* expressjs
-* airbnb eslint rules
+Server built for [Websocket EC](http://cs52.me/assignments/sa/websockets/).
 
-Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
-
-
+Implements Sockets.io on top of [CS 52 Starterpack](https://github.com/dartmouth-cs52/express-babel-starter).
